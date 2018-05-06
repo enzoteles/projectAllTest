@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="primary">@color/blue1</color>
+    <color name="primary_dark">@color/blue2</color>
+    <color name="primary_light">@color/blue3</color>
+
+    <color name="blue1_50">#80B31D12</color>
+    <color name="blue1">#0059bb</color>
+    <color name="blue2">#04468e</color>
+    <color name="blue3">#46869f</color>
+    <color name="blue4">#07418e</color>
+    <color name="blue5">#086ede</color> <!-- speed text -->
+    <color name="blue6">#2848a1</color>
+    <color name="blue7">#06b1d4</color>
+    <color name="blue_back">#005AA9</color>
+
+    <color name="blue5_30">#4DE72000</color> <!-- speed text -->
+    <color name="blue5_10">#20E72000</color> <!-- speed text -->
+
+    <color name="orange">#f1951c</color>
+    <color name="orange2">#F7680A</color>
+    <color name="red">#FF0000</color>
+    <color name="red1">#FF8042</color>
+    <color name="yellow">#f1da6f</color>
+
+    <color name="beige">#e4e4a1</color>
+    <color name="purple">#800080</color>
+    <color name="wine">#722f37</color>
+
+    <color name="green">#0059bb</color> <!-- gauge green -->
+    <color name="green_light">#5998e7</color>
+    <color name="green_dark">#04468e</color>
+
+    <color name="toolbar">@color/white</color>
+    <color name="toolbar_title">@color/splash</color>
+
+    <color name="progressbar">#D7AA22</color>
+    <color name="progressbar_secondary">#626164</color>
+
+    <color name="nav_icon_color">#4099D6</color>
+
+    <color name="control_highlight">@color/primary</color>
+
+    <color name="ripple">#FF80AB</color>
+    <color name="accent">#FF4081</color>
+    <color name="accent_pressed">#f50057</color>
+
+    <color name="menu_section_background">#F1EEF8</color>
+    <color name="menu_section_line">#7A7A7A</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="background_color">#F8F8F8</color>
+    <color name="background_default">@color/primary</color>
+    <color name="background_gray">#fdfdfd</color>
+    <color name="background_nav">@color/white</color>
+    <color name="background_legal">@color/white</color>
+
+    <color name="text_imput_color">#05476C</color>
+    <color name="text_hint_color">#BF05476C</color>
+    <color name="button_color_1">#FF9000</color>
+    <color name="button_color_1_light">#FFA632</color>
+    <color name="button_color_2">#004c8b</color>
+    <color name="button_color_2_light">#326fa2</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_25">#40FFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_75">#BFFFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="black_text">#444445</color>
+    <color name="black_10">#20000000</color>
+    <color name="black_25">#40000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="black_75">#BF000000</color>
+    <color name="black_86">#DE000000</color>
+    <color name="black_view_filter">#4C4C4C</color>
+
+    <color name="gray">#ECECEC</color>
+    <color name="gray_25">#40E0E0E0</color>
+    <color name="gray_35">#59E0E0E0</color>
+    <color name="gray_50">#80E0E0E0</color>
+    <color name="gray_75">#BFE0E0E0</color>
+    <color name="gray2">#707070</color>
+    <color name="gray3">#DDDDDD</color>
+    <color name="gray4">#EDEDED</color>
+    <color name="gray5">#a9afb1</color>
+    <color name="gray_text">#a3a3a3</color>
+    <color name="gray_text2">#666666</color>
+    <color name="gray_text3">#999999</color>
+    <color name="gray_text_tab">#E3E3E3</color>
+    <color name="gray_divider">#EEEEEE</color>
+    <color name="gray_textfield">#D8D8D8</color>
+    <color name="gray_textfield_dark">#8E8E93</color>
+
+    <color name="chatEmptyColor">#A5A5A5</color>
+
+    <color name="blue_20">#1a08b6ac</color>
+    <color name="blue_light">#5998e7</color>
+    <color name="blue">#307fe2</color>
+    <color name="blue_dark">#2665b4</color>
+
+    <color name="facebook">#003DA5</color>
+    <color name="twitter">#00AEE7</color>
+
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow">#10000000</color>
+
+    <color name="link">#0000EE</color>
+
+    <color name="splash">#005AA9</color>
+
+    <color name="action_bar_color">#004c8f</color>
+</resources>

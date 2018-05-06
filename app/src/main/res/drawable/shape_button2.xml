@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/red1" />
+            <stroke android:width="2dp" android:color="@color/red1" />
+            <padding android:bottom="10dp" android:left="10dp" android:right="10dp" android:top="10dp" />
+        </shape>
+
+    </item>
+    <item>
+        <shape>
+            <corners android:radius="@dimen/corner_button3" />
+
+            <solid android:color="@color/red1" />
+
+            <stroke android:width="1dp" android:color="@color/red1" />
+
+            <padding android:bottom="@dimen/abc_button_padding_vertical_material" android:left="@dimen/abc_button_padding_horizontal_material" android:right="@dimen/abc_button_padding_horizontal_material" android:top="@dimen/abc_button_padding_vertical_material" />
+        </shape>
+    </item>
+
+</selector>

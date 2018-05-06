@@ -1,0 +1,277 @@
+<resources>
+    <string name="app_name">MVVMAllTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_offer">Ofertas</string>
+    <string name="title_inbox">Mensagens</string>
+    <string name="title_menu">Mais</string>
+    <string name="title_button_close">Fechar</string>
+
+    <!-- EMPTY LAYOUT -->
+    <string name="empty_title_generic">Could not load items</string>
+    <string name="empty_subtitle_generic">Pull to load again</string>
+
+    <string name="empty_title_product">Minhas Compras</string>
+    <string name="empty_subtitle_product">Não existem compras nesse mês</string>
+
+    <string name="empty_title_cashback">Meu Créditos</string>
+    <string name="empty_subtitle_cashback">Não existem créditos</string>
+
+    <string name="empty_title_offer">Minhas Ofertas</string>
+    <string name="empty_subtitle_offer">Não existem ofertas</string>
+
+    <string name="empty_title_inbox"></string>
+    <string name="empty_subtitle_inbox">Sem mensagens</string>
+
+    <!-- TUTORIAL -->
+    <string name="tutorial_title_1"><![CDATA[<b>Seja bem-vindo ao</b>]]></string>
+    <string name="tutorial_title_2"><![CDATA[<b>Mantenha seu cadastro <br>sempre atualizado.]]></string>
+    <string name="tutorial_title_3"></string>
+    <string name="tutorial_title_4"></string>
+    <string name="tutorial_title_5"></string>
+
+    <string name="tutorial_text_1"><![CDATA[Um <b><font color=\'#81d3f6\'>clube de vantagens</font></b><br>para você <b><font color=\'#81d3f6\'>economizar</font></b><br>ainda mais.]]></string>
+    <string name="tutorial_text_2"><![CDATA[Assim podemos conhecê-lo\nmelhor e trazer ofertas feitas\n<b><font color=\'#81d3f6\'>especialmente</font></b> para você.]]></string>
+    <string name="tutorial_text_3"><![CDATA[E lembre-se de sempre\<br><b><font color=\'#81d3f6\'>informar</font></b> seu <b><font color=\'#81d3f6\'>CPF no caixa</font></b><br>na <b><font color=\'#81d3f6\'>hora da compra</font></b> para<br>aproveitar os <b><font color=\'#81d3f6\'>descontos</font></b>.]]></string>
+
+    <string name="tutorial_text_4"></string>
+    <string name="tutorial_text_5"></string>
+
+    <string name="tutorial_buttom">Começar agora!</string>
+
+    <!-- VALIDATION -->
+    <string name="valid_chars">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.</string>
+    <string name="valid_chars_2">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+    <string name="valid_chars_3">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 .,-_</string>
+    <string name="valid_chars_4_number_and_dot">0123456789.</string>
+    <string name="valid_chars_5_number">0123456789</string>
+
+    <!-- // ERROR -->
+    <string name="error_message_timeout">java.net.SocketTimeoutException</string>
+    <string name="error_message_timeout2">onnect</string>
+    <string name="error_message_timeout3">timeout</string>
+    <string name="error_message_timeout4">host</string>
+    <string name="error_message_timeout5">handshake</string>
+    <string name="message_timeout">Sem conexão com a internet</string>
+    <string name="message_timeout_conection">Sem acesso a internet</string>
+
+    <string name="error_message_last_page">Não foi encontrado recomendação de produtos, para o cliente informado.</string>
+
+    <!-- // LOGIN -->
+    <string name="title_register">Cadastro</string>
+    <string name="cpf">CPF *</string>
+    <string name="birth">Data de Nascimento *</string>
+    <string name="pass">Senha do usuário</string>
+    <string name="forgot_pass">Esqueci minha senha</string>
+    <string name="login">Entrar</string>
+    <string name="register">CADASTRE-SE</string>
+
+
+    <string name="invalid_cpf">CPF inválido</string>
+    <string name="invalid_birthday">Data de nascimento inválida</string>
+    <string name="invalid_pass">Senha deve ter no mínimo 6 dígitos</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="message_error_login_usr">Falha ao autenticar o usuário. Por favor, tente novamente!</string>
+
+    <string name="message_error_user_exists">Falha ao verificar cadastro do usuário.</string>
+    <string name="message_error_user_exists_not_pass">Por favor, cadastre uma senha.</string>
+
+    <string name="message_error_load_user">Falha ao carregar o perfil</string>
+
+    <!-- // FORGOT PASSWORD -->
+    <string name="title_forgot_password">Recuperar a senha</string>
+
+    <string name="label_forgot_password">Enviaremos um código de confirmação\nvia SMS para realizar sua alteração de senha.</string>
+    <string name="cpf_">CPF\n%s</string>
+    <string name="birthday_">Data de Nascimento\n%s</string>
+    <string name="send_token">Enviar código</string>
+    <string name="save_new_password">Confirmar código</string>
+
+    <string name="btn_resend">Reenviar código</string>
+
+    <string name="invalid_token">Código inválido</string>
+    <string name="update_password_success">Código enviado com sucesso!</string>
+    <string name="update_password_error">Falha ao enviar código. Por favor, tente novamente!</string>
+
+    <!-- // PROFILE -->
+    <string name="title_profile">Cadastro</string>
+    <string name="title_profile2">Editar perfil</string>
+
+    <string name="profile_cancel">Cancelar</string>
+
+    <string name="name">Nome e sobrenome *</string>
+    <string name="email">E-mail *</string>
+    <string name="token">Insira seu código de validação</string>
+    <string name="pass1">Senha (6 caracteres)</string>
+    <string name="pass2">Confirmar senha</string>
+    <string name="change_password">Alterar senha</string>
+    <string name="phone">Telefone </string>
+    <string name="cellphone">Celular *</string>
+    <string name="cellphone2">Celular *</string>
+    <string name="birth1">Nascimento *</string>
+
+    <string name="gender">Sexo</string>
+    <string name="male">Masculino</string>
+    <string name="female">Feminino</string>
+
+    <string name="birthday">Nascimento *</string>
+
+    <string name="selfie">Cadastre sua selfie</string>
+    <string name="next">Próximo</string>
+
+    <string name="confirm_save">Confirmar e salvar</string>
+    <string name="save">Salvar</string>
+
+    <string name="invalid_pass_length">Senha deve conter no mínimo 8 caracteres</string>
+
+    <string name="cep">Número do CEP *</string>
+    <string name="street">Endereço *</string>
+    <string name="number">Número *</string>
+    <string name="complement">Complemento(opcional)</string>
+    <string name="state">Estado *</string>
+    <string name="city">Cidade *</string>
+    <string name="district">Bairro *</string>
+
+    <string name="register_profile_success">Usuário registrado com sucesso!</string>
+    <string name="register_profile_error">Falha ao registrar o usuário. Por favor, tente novamente!</string>
+
+    <string name="title_change_address">Alteração de endereço</string>
+    <string name="title_change_pass">Alterar senha</string>
+
+    <string name="update_profile_success">Perfil alterado com sucesso!</string>
+    <string name="update_profile_error">Falha ao alterar o perfil. Por favor, tente novamente!</string>
+
+
+    <string name="invalid_name">Nome inválido</string>
+    <string name="invalid_email">E-mail inválido</string>
+    <string name="invalid_email_length">E-mail deve conter no mínimo 4 caracteres</string>
+    <string name="invalid_email_first_chars">Os 4 primeiros caracteres do e-mail devem ser alfanuméricos</string>
+    <string name="invalid_phone_length">Telefone deve conter o Código do Estado mais 8 dígitos</string>
+    <string name="invalid_work_phone_length">Número inválido</string>
+    <string name="invalid_pass_combination">As senhas não combinam</string>
+
+    <string name="invalid_zip">CEP inválido</string>
+    <string name="invalid_street">Rua/Av. inválida</string>
+    <string name="invalid_number">Número inválido</string>
+    <string name="invalid_state">Estado inválido</string>
+    <string name="invalid_city">Cidade inválida</string>
+    <string name="invalid_district">Bairro inválido</string>
+
+
+    <string name="facebook_app_id">1533290166733034</string>
+    <string name="fb_login_protocol_scheme">fb1533290166733034</string>
+
+    <!-- // SELFIE -->
+    <string name="repeat">Repetir</string>
+
+    <string name="invalid_selfie">Selfie inválida</string>
+
+    <string name="register_selfie_error_460">E-mail não cadastrado</string>
+    <string name="register_selfie_error_461">Face não detectada na foto. Por favor, tente novamente!</string>
+    <string name="register_selfie_error_462">Quantidade de fotos com face insuficiente. Por favor, tente novamente!</string>
+    <string name="register_selfie_error_463">CPF não informado</string>
+    <string name="register_selfie_error_464">Usuário não identificado. Por favor, tente novamente!</string>
+
+    <string name="register_selfie_success">Selfies registradas com sucesso!</string>
+    <string name="register_selfie_error">Falha ao registrar as selfies. Por favor, tente novamente!</string>
+
+    <string name="register_selfie_error_450">Face não detectada na foto. Por favor, tente novamente!</string>
+    <string name="register_selfie_error_451">Quantidade de fotos com face insuficiente. Por favor, tente novamente!</string>
+    <string name="register_selfie_error_452">Imagem fora de foco. Por favor, tente novamente!</string>
+    <string name="register_selfie_error_453">Face capturada não apta para reconhecimento. Por favor, tente novamente!</string>
+    <string name="register_selfie_error_454">Falha de validação de face. Por favor, tente novamente!</string>
+    <string name="register_selfie_error_409">Usuário já cadastrado.</string>
+    <string name="register_selfie_error_410">Face já cadastrada com outro usuário.</string>
+    <string name="register_selfie_error_500_501_502_404">Serviço indisponível. Por favor, tente mais tarde!</string>
+
+    <!-- // PASSWORD -->
+    <string name="title_password">Cadastrar senha</string>
+    <string name="title_password2">Editar senha</string>
+    <string name="title_password3">Cadastrar nova senha</string>
+
+    <string name="new_pass1">Nova senha</string>
+    <string name="new_pass2">Confirmar nova senha</string>
+
+    <string name="login_password_error">Usuário ou Senha Inválidos.</string>
+    <string name="login_password_error_message">Senha Inválida.</string>
+    <string name="invalid_new_pass">Nova senha inválida</string>
+
+    <string name="save_new_password_success">Senha alterada com sucesso!</string>
+
+    <string name="save_password_success">Senha cadastrada com sucesso!</string>
+    <string name="save_password_error">Falha ao cadastrar a senha. Por favor, tente novamente!</string>
+
+    <!-- // MENU -->
+    <string name="menu_label_balance_">Saldo: R$%s</string>
+
+    <string name="profile">editar perfil</string>
+    <string name="invite">Convite</string>
+    <string name="regulation">Regulamento</string>
+    <string name="logout">Sair</string>
+
+    <string name="load_balance_error">Falha ao carregar o saldo</string>
+
+    <!-- // SHOPPING -->
+    <string name="title_shopping">Minhas Compras</string>
+
+    <array name="array_month">
+        <item>Janeiro</item>
+        <item>Fevereiro</item>
+        <item>Março</item>
+        <item>Abril</item>
+        <item>Maio</item>
+        <item>Junho</item>
+        <item>Julho</item>
+        <item>Agosto</item>
+        <item>Setembro</item>
+        <item>Outubro</item>
+        <item>Novembro</item>
+        <item>Dezembro</item>
+    </array>
+
+    <string name="label_total_shopping">Total do mês:</string>
+    <string name="label_value">R$ %s</string>
+
+    <string name="message_error_load_shopping">Falha ao carregar as compras do mês</string>
+
+    <!-- // PRODUCT -->
+    <string name="label_total_product">Total da compra:</string>
+
+    <string name="message_error_load_product">Falha ao carregar as compras do dia</string>
+
+    <!-- // CASHBACK -->
+    <string name="title_cashback">Meus Créditos</string>
+    <string name="label_total_cashback">Saldo:</string>
+
+    <string name="label_value_plus">+ R$ %s</string>
+    <string name="label_purchase">Compra - R$ %s</string>
+    <string name="label_expiration_date">Validade: %s</string>
+    <string name="label_expiration_date2">A vencer: %s</string>
+
+    <string name="message_error_load_cashback">Falha ao carregar os créditos</string>
+
+    <!-- // INVITE -->
+    <string name="label_title_invite">Gostando do aplicativo?</string>
+    <string name="label_message_invite">Agora você pode indicar amigos\npara experimentar antes de todo mundo</string>
+
+    <string name="whatsapp">WhatsApp</string>
+    <string name="facebook">Facebook</string>
+
+    <!--<string name="invite_message">Clique <![CDATA[<a href="http://www.uol.com.br">aqui</a>]]> e baixe o aplicativo da Izio Go para ter acesso a ofertas exclusivas</string>-->
+
+
+    <string name="invite_message">\nClique aqui e baixe o aplicativo Supermercado bandeirante para ter acesso a ofertas exclusivas.\n\nhttps://play.google.com/store/apps/details?id=br.com.izio.bandeirante</string>
+
+    <!-- // OFFER -->
+    <string name="title_offer_activity">Ofertas Bandeirante</string>
+    <string name="label_offer_date">Oferta válida até %s</string>
+
+    <string name="action_search">Pesquisar</string>
+    <string name="hint_search">O que você precisa hoje?</string>
+
+    <!-- // INBOX -->
+    <string name="label_inbox_date">válida até %s</string>
+
+    <string name="text_lebel_no_internet_connection_place_holder">Favor verifique sua conexão\ncom a internet e tente novamente.</string>
+</resources>
